@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Back-end services for PYP-Assignment web application.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "engines": {
+    "node": "14.5.0",
+    "npm": "7.6.1"
+  },
+  "author": "Hasimy",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "cors": "^2.8.5",
+    "eslint": "^7.29.0",
+    "express": "^4.17.1"
+  }
+}
+
