@@ -45,11 +45,9 @@ Originators   = http://localhost:<YOUR_PORT>/api/originators
 
 Current app version is on v1.0.0.
 
-# License and Conduct
+# License
 
 MIT © [Hasimy Md's License](https://raw.githubusercontent.com/hasimy-as/Codebase-Restify/master/LICENSE)
-
-[Code of Conduct](code-of-conduct.md)
 
 # Collaboration
 
